@@ -5,7 +5,7 @@ const opt = {
     },
     limit: {
         alias: 'l',
-        default: 20
+        default: 10
     }
 };
 
